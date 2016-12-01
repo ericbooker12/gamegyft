@@ -1,6 +1,6 @@
 # GameGyft
 ## Money 20/20 Hackathon project
-A simple app to send a fun, age-appropriate (game-type) experience and a Gyft Card to a friend.
+GameGyft is a Sinatra/Rails app to send a fun, age-appropriate (game-type) experience and a Gyft Card to a friend. It utilizes VisaDirect and Marqueta APIs to fund the gift card.
 
 The current iteration for the Hackathon features a counting game -- if time had permitted, we would have created an **Augmented Reality Treasure Hunt**!
 
@@ -14,7 +14,7 @@ In 2015, Gift Card sales reached a new peak of $130 BILLION dollars. Holidays, b
 The underlying psychology of giving weaves a complex web of emotions. GameGyft alleviates this dynamic by adding personalization and delight to the gift card industry.
 
 ## My Role
-Presentation concept and delivery, frontend  
+Frontend JavaScript 
 
 ## Team
 [Mike Ball](https://github.com/mikeball)  
