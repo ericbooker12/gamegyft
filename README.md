@@ -14,7 +14,7 @@ In 2015, Gift Card sales reached a new peak of $130 BILLION dollars. Holidays, b
 The underlying psychology of giving weaves a complex web of emotions. GameGyft alleviates this dynamic by adding personalization and delight to the gift card industry.
 
 ## My Role
-Frontend JavaScript 
+Frontend JavaScript for general layout and game play/view.
 
 ## Team
 [Mike Ball](https://github.com/mikeball)  
@@ -23,3 +23,45 @@ Frontend JavaScript
 [Shawn Tuttle](https://github.com/ShawnTe)  
 
 Check out our mention on the [Forbes blog](http://bit.ly/2f1NMGT)!
+
+## Screenshots
+
+Name and age of person who will be recieving the gift.
+![Initial screen](screenshots/SendGyft.png "Initial screen")
+
+---
+The amount and a personal message for the reciever.
+![Amount and personal message](screenshots/SendGyft2.png "Amount and personal message")
+
+---
+The challenge the reciever has to complete in order to unlock the gift.
+![Pick A Challenge](screenshots/PickChallenge.png "Pick a challenge")
+
+---
+Payment details used to fund the gift.
+![Payment details](screenshots/PaymentInfo.png "Payment details")
+
+---
+On successful payment.
+![Successful payment](screenshots/Success.png "Success page")
+
+---
+The game that the reciever has to complete to unlock the gift.
+This age appriate game is intended for age 6 or under.
+![Apple Game](screenshots/Game.png "Apple Game")
+
+---
+On successful completion of the game by the reciever.
+![Congrats!](screenshots/Congrats.png "Congrats!")
+
+
+
+
+
+
+
+
+
+
+
+
